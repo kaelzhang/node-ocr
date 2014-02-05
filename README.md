@@ -1,0 +1,1 @@
+# ocr [![NPM version](https://badge.fury.io/js/ocr.png)](http://badge.fury.io/js/ocr) [![Build Status](https://travis-ci.org/kaelzhang/node-ocr.png?branch=master)](https://travis-ci.org/kaelzhang/node-ocr) [![Dependency Status](https://gemnasium.com/kaelzhang/node-ocr.png)](https://gemnasium.com/kaelzhang/node-ocr)
