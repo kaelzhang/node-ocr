@@ -12,7 +12,7 @@ npm install ocr
 
 ```js
 ocr
-.language('arabic')
+.language('arabic', 'french')
 .recognize(path_to_image, function(err, text){
 	if ( err ) {
         console.error(err);   
